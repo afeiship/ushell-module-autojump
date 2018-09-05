@@ -26,6 +26,8 @@ echo '. /usr/share/autojump/autojump.sh'>>~/.bashrc;
 + ubuntu:
 ```bash
 apt-get install autojump;
+
+## add to .bashrc:
 source /usr/share/autojump/autojump.sh;
 ```
 
