@@ -13,3 +13,8 @@ fi
 if [[ $(uname) == Darwin ]]; then
   [[ -s $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
 fi
+
+# ubuntu:
+if [[ $OSTYPE == linux-gnu ]]; then
+  source /usr/share/autojump/autojump.sh;
+fi
