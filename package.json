@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-autojump/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-autojump#readme"
+  "homepage": "https://github.com/afeiship/ushell-module-autojump#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
