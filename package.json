@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-autojump",
-  "version": "0.0.1",
+  "name": "@feizheng/ushell-module-autojump",
+  "version": "1.0.0",
   "description": "Unix like shell module for autojump.",
   "main": "index.sh",
   "repository": {

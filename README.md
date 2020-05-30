@@ -1,9 +1,12 @@
 # ushell-module-autojump
-Unix like shell module for autojump.
+> Unix like shell module for autojump.
 
-## commands:
+## installation
+```shell
+npm i -S @feizheng/ushell-module-autojump
+```
 
-## how to find autojump:
+## how to find autojump
 + whereis autojump.sh
 + MAC OSX:
 ```bash
@@ -31,9 +34,7 @@ apt-get install autojump;
 source /usr/share/autojump/autojump.sh;
 ```
 
-
-
-## resources:
-+ https://stackoverflow.com/questions/44195496/homebrew-could-not-symlink-usr-local-share-man-man7-is-not-writable
-+ https://blog.csdn.net/natural_story/article/details/50764354
-+ https://www.barretlee.com/blog/2015/03/30/autojump-in-mac/
+## resources
+- https://stackoverflow.com/questions/44195496/homebrew-could-not-symlink-usr-local-share-man-man7-is-not-writable
+- https://blog.csdn.net/natural_story/article/details/50764354
+- https://www.barretlee.com/blog/2015/03/30/autojump-in-mac/
