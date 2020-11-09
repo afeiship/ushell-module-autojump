@@ -3,7 +3,7 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-autojump
+npm i -S @jswork/ushell-module-autojump
 ```
 
 ## how to find autojump
