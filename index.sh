@@ -16,5 +16,7 @@ fi
 
 # ubuntu:
 if [[ $OSTYPE == linux-gnu ]]; then
-  source /usr/share/autojump/autojump.sh;
+  if [ -f /usr/share/autojump/autojump.sh ]; then
+    source /usr/share/autojump/autojump.sh;
+  fi
 fi

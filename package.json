@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/afeiship/ushell-module-autojump#readme",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   }
 }
