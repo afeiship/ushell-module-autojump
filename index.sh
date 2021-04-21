@@ -2,8 +2,6 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-#brew install autojump
-
 # Centos:
 if [[ $USM_OS_TYPE == 'centos' ]]; then
   source /etc/profile.d/autojump.sh;

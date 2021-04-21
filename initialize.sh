@@ -8,3 +8,7 @@ yum install autojump;
 
 # mac:
 brew install autojump;
+
+# ubuntu
+apt-get install autojump
+
